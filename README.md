@@ -203,7 +203,7 @@ Using the starter code, perform the following:
     }
     ```
 
-![Level Three Layout](level_three_options.png)
+![Level Three Layout](Images/level_three_options.png)
 
   * Once you are satisfied with your contract's logic, revert the `fakenow` testing logic.
 
